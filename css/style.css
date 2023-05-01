@@ -6,11 +6,11 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-image:linear-gradient(to right, blue, green);
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-family: 'Times New Roman', Times, Georgia;
+  font-size: 103%;
 }
 
 .wrapper {
@@ -26,7 +26,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #e4e2e4;
 }
 
 h1 {
